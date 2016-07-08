@@ -1,0 +1,15 @@
+body{
+    background-image: url("http://d.fastcompany.net/multisite_files/fastcompany/imagecache/1280/poster/2014/07/3033455-poster-foursquare.jpg");
+}
+
+
+#title-1{
+    text-align:center;
+}
+
+.4SquareResults{
+    padding-top: 20px;
+    text-align: center;
+    background-color: white;
+}
+
